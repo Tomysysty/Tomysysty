@@ -1,7 +1,4 @@
-## Hi there 👋 HOLS MUCHACHOS COMO ESTAN?
-## ESTUDIANTE EAFIT INGENIERIA DE SISTEMAS 🕶️
-## LUCHANDO EN PRIMER SEMESTRE 🤓 ME GUSTA JUGAR VIDEOJUEGOS FIN 
-## NO SE USAR ESTO.
+## Hi there 👋.
 
 <!--
 **Tomysysty/Tomysysty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
